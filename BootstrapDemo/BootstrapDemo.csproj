@@ -72,9 +72,7 @@
     <Content Include="Content\Images\OneAspNet.jpg" />
     <Content Include="Content\OneAspNet.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="OneAspNetDemo.html" />
-    <Content Include="OneAspNetStart.html" />
-    <Content Include="OneAspNet.html" />
+    <Content Include="index.html" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
