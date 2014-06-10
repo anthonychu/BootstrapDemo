@@ -1,0 +1,30 @@
+﻿.block {
+    height: 16vw;
+    color: #fff;
+    font: 24px "Segoe UI";
+    border: 1vw solid white;
+}
+
+    .block > div {
+        display: table;
+        height: 100%;
+        width: 100%;
+    }
+
+        .block > div > div {
+            display: table-cell;
+            text-align: center;
+            vertical-align: middle;
+        }
+
+.aspnet {
+    background-color: #67217a;
+}
+
+.category {
+    background-color: #0170c1;
+}
+
+.technology {
+    background-color: #009d49;
+}
