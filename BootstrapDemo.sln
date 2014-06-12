@@ -7,7 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootstrapDemo", "BootstrapD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9097425A-1331-4228-A6C4-7EF01F87F3E8}"
 	ProjectSection(SolutionItems) = preProject
-		_config.yml = _config.yml
 		README.md = README.md
 	EndProjectSection
 EndProject
